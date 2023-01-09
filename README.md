@@ -54,6 +54,6 @@ const labels = []에 만든 폴더들과 이름을 같게 추가하여 준다.
 
 ![jsjsjs](https://user-images.githubusercontent.com/86837707/211259302-56cd73ad-fa21-4aed-a189-b62f5f88dfc7.png)
 
-![js1js](https://user-images.githubusercontent.com/86837707/203839758-e98551c1-4d13-4144-aab7-bf2079f857de.jpg)
+![js1js](https://user-images.githubusercontent.com/86837707/211261974-15793aaf-10e7-449b-b445-244a79e55d43.JPG)
 
 정상적으로 구현이 잘 되는 것을 확인할 수 있다.
