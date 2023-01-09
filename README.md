@@ -52,7 +52,7 @@ const labels = []에 만든 폴더들과 이름을 같게 추가하여 준다.
 
 다음 사진들은 원본과 얼굴을 detect 한 후의 사진이다.
 
-![jsjsjs](https://user-images.githubusercontent.com/86837707/203839752-485713eb-ea86-4752-9297-8c73a4cabafb.png)
+![jsjsjs](https://user-images.githubusercontent.com/86837707/211259302-56cd73ad-fa21-4aed-a189-b62f5f88dfc7.png)
 
 ![js1js](https://user-images.githubusercontent.com/86837707/203839758-e98551c1-4d13-4144-aab7-bf2079f857de.jpg)
 
